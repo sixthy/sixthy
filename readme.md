@@ -1,3 +1,4 @@
+- 😁 Beginner on devs!
 - 👋 Hi, I’m @sixthy
 - 👀 I’m interested in games, music and apprenticeship
 - 🌱 I’m currently learning Javascript
