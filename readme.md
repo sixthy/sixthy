@@ -3,7 +3,7 @@
 - 👀 I’m interested in games, music and apprenticeship
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on with nice people who can teach me even more about dev
-- 📫 How to reach me - gabrielferreirasantos723@gmail.com
+- 📫 How to contact me - gabrielferreirasantos723@gmail.com
 - 🇧🇷
 
 <!---
